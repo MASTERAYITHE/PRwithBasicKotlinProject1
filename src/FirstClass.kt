@@ -4,6 +4,7 @@ class FirstClass {
     }
 }
 fun main (){
+    print("Abhishek")
     val pln=FirstClass()
     pln.printLastName()
 }
